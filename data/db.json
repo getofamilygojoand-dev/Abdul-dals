@@ -1,0 +1,24 @@
+{
+  "accounts": [
+    {
+      "id": "owner-2015",
+      "code": "2015",
+      "name": "Abdul",
+      "password": "2015",
+      "dateOfBirth": "2015-01-01",
+      "avatarEmoji": "👑",
+      "roleTitle": "Store Owner",
+      "bio": "Founder & Store Owner",
+      "isOwner": true,
+      "createdAt": 1700000000000,
+      "status": "online"
+    }
+  ],
+  "dms": [],
+  "friendRequests": [],
+  "friendships": [],
+  "activeCall": null,
+  "heartbeats": {
+    "2015": 1700000000000
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Abdul Deals",
+  "description": "24K Royal VIP service catalog and direct booking portal for Rivals Gaming boosts, room maintenance, hot snacks, iced Karak drinks, and Minecraft OP kits with the 2015 Owner Idea Vault for instant store catalog expansion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

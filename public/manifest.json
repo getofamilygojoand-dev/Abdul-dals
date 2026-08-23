@@ -1,0 +1,70 @@
+{
+  "name": "Abdul Deals",
+  "short_name": "Abdul Deals",
+  "description": "Abdul Deals Official Store & Direct Order Hotline (050 297 8206)",
+  "start_url": "/",
+  "scope": "/",
+  "id": "abdul-deals-vip-app",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "background_color": "#0c0a06",
+  "theme_color": "#eab308",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Search VIP Deals",
+      "short_name": "Search",
+      "description": "Search all VIP deals and services",
+      "url": "/?search=1",
+      "icons": [{ "src": "/icon.jpg", "sizes": "192x192", "type": "image/jpeg" }]
+    },
+    {
+      "name": "👑 Build Mega Base (20 AED)",
+      "short_name": "Mega Base",
+      "description": "20 AED Minecraft Pro OP Survival Mega Base",
+      "url": "/?category=minecraft",
+      "icons": [{ "src": "/icon.jpg", "sizes": "192x192", "type": "image/jpeg" }]
+    },
+    {
+      "name": "🎮 Rivals Weapons & RPG",
+      "short_name": "Rivals",
+      "description": "Roblox Rivals Boosts & RPG Launcher",
+      "url": "/?category=rivals",
+      "icons": [{ "src": "/icon.jpg", "sizes": "192x192", "type": "image/jpeg" }]
+    },
+    {
+      "name": "🛒 View VIP Cart",
+      "short_name": "Cart",
+      "description": "View items in your cart & checkout",
+      "url": "/?cart=1",
+      "icons": [{ "src": "/icon.jpg", "sizes": "192x192", "type": "image/jpeg" }]
+    }
+  ],
+  "categories": ["shopping", "games", "lifestyle", "utilities"]
+}
